@@ -1,0 +1,13 @@
+
+#footer{       
+    position: absolute;
+    bottom: 0;
+    height: 2.5rem;
+    width: 100%;
+    text-align: center;       
+  }
+
+  #icon{
+      color: red;
+      font-size: 20px;
+  }
